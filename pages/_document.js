@@ -14,7 +14,7 @@ class MyDocument extends Document {
         <link rel="preconnect" href="https://fonts.gstatic.com"/>
         <link href="https://fonts.googleapis.com/css2?family=Prompt:wght@400;600&display=swap" rel="stylesheet"/>
         </Head>
-        <body class="bg-orange-50">
+        <body className="bg-orange-50">
           <Main />
           <NextScript />
         </body>
