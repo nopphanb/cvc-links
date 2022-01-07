@@ -15,6 +15,7 @@ export default function Home() {
           src="/../public/true.png"
           width={120}
           height={55}
+          alt='true'
           />
           <p>True</p>
         </a>
@@ -23,6 +24,7 @@ export default function Home() {
           src="/../public/ais_logo.webp"
           width={95}
           height={49}
+          alt='AIS'
           />
           <p>AIS</p>
         </a>
@@ -31,6 +33,7 @@ export default function Home() {
           src="/../public/dtac.png"
           width={100}
           height={50}
+          alt='dtac'
           />
           <p>dtac</p>
         </a>
@@ -38,7 +41,7 @@ export default function Home() {
         <Image
           src="/../public/nt.png"
           width={71}
-          height={50}
+          alt='NT'
           />
           <p>NT</p>
         </a>
