@@ -41,6 +41,7 @@ export default function Home() {
         <Image
           src="nt.png"
           width={71}
+          height={50}
           alt='NT'
           />
           <p>NT</p>
