@@ -12,7 +12,7 @@ export default function Home() {
       <div className="grid grid-cols-2 md:grid-cols-4 gap-10 mt-10">
         <a className="block text-center p-12 bg-white shadow-md hover:shadow-xl rounded-md transition-all" href="https://vaccine.trueid.net/">
           <Image
-          src="/../public/true.png"
+          src="true.png"
           width={120}
           height={55}
           alt='true'
@@ -21,7 +21,7 @@ export default function Home() {
         </a>
         <a className="block text-center p-12 bg-white shadow-md hover:shadow-xl rounded-md transition-all" href="https://vaccineforthais.ais.th/Reserve/Login">
         <Image
-          src="/../public/ais_logo.webp"
+          src="ais_logo.webp"
           width={95}
           height={49}
           alt='AIS'
@@ -30,7 +30,7 @@ export default function Home() {
         </a>
         <a className="block text-center p-12 bg-white shadow-md hover:shadow-xl rounded-md transition-all" href="https://app.dtac.co.th/vaccine/index.html">
         <Image
-          src="/../public/dtac.png"
+          src="dtac.png"
           width={100}
           height={50}
           alt='dtac'
@@ -39,7 +39,7 @@ export default function Home() {
         </a>
         <a className="block text-center p-12 bg-white shadow-md hover:shadow-xl rounded-md transition-all" href="https://covid19vaccine.ntplc.co.th/CVC/info">
         <Image
-          src="/../public/nt.png"
+          src="nt.png"
           width={71}
           alt='NT'
           />
